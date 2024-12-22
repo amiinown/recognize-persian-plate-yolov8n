@@ -35,7 +35,7 @@ This project provides a robust solution for recognizing Iranian private car lice
      ```
    - **Linux:**
      ```bash
-     python -m venv your_venv_name
+     python3 -m venv your_venv_name
      source your_venv_name/bin/activate
      ```
 3. Install the required Python modules:
